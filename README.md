@@ -14,7 +14,7 @@ AI-Powered Resume Analyzer is a modern web application that leverages AI to anal
 
 - **AI-Powered Resume Analysis:** Upload your resume and receive detailed feedback on ATS compatibility, tone, content, structure, and skills.
   
-   <img width="943" height="792" alt="Screenshot 2025-07-23 145522" src="https://github.com/user-attachments/assets/06078bd9-fe0c-49b0-abbc-9a300f0e6650" />
+   <img width="1200" alt="Resume demo 03" src="public/readme/resume_03.png" />
    
 - **ATS Score:** Instantly see how your resume performs against automated screening systems.
 
@@ -22,7 +22,7 @@ AI-Powered Resume Analyzer is a modern web application that leverages AI to anal
    
 - **Actionable Tips:** Get categorized suggestions for improvement, including specific explanations.
    
-   <img width="1885" height="806" alt="Screenshot 2025-07-23 152958" src="https://github.com/user-attachments/assets/8cbcbcf4-7d87-4a2e-a7f9-d2d0b3efefdd" />
+   <img width="1200" alt="Resume demo 04" src="public/readme/resume_01.png" />
    
 - **Job-Aware Feedback:** Optionally provide job title and description for tailored analysis.
 - **Secure File Storage:** All files are managed securely via Puter.js.
